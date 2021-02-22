@@ -6,7 +6,7 @@
 
 [![Discord][discord-badge]][discord-invite-url]
 
-A amvara-ran Discord for all things Amvara Consulting.
+A community-ran Discord for all things around Cognos, Cometa, Amvara...
 
 ## About the Discord
 
