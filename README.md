@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.svg" width="250">
+  <img src="./logo_amvara.svg" width="250">
 </p>
 
 # Amvara Community
