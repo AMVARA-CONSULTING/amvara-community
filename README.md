@@ -8,21 +8,27 @@
 
 A amvara-ran Discord for all things Amvara Consulting.
 
-# Discord Rules
+## About the Discord
 
-1. Follow the Code of Conduct.
+Our discord was created to be able to offer users our general or particular help in the different projects that we have or know of, create a healthy community that feeds back knowledge and publish or share the love and ideas of Amvara to the world.
 
-2. Do not spam users or channels. Be patient. Unsolicited direct messages (DMs) are not allowed. Keep messages relevant to the channel they're in. Do not send the same message to different channels.
+[Click here][discord-invite-url] to be invited to the Discord.
 
-3. Be civil and professional. Personal attacks, harassment, and hate speech will not be tolerated.
+## Discord Rules
 
-4. Safe for work content only. Pornographic, sexual innuendo, and extremist content is strictly forbidden.
+1. **Follow the [Code of Conduct](./code-of-conduct.md).**
 
-5. Clean language only. Inappropriate and offensive language is strictly forbidden.
+2. **Do not spam users or channels.** Be patient. Unsolicited direct messages (DMs) are not allowed. Keep messages relevant to the channel they're in. Do not send the same message to different channels.
 
-7. Follow the Discord Terms of Service. https://discord.com/terms
+3. **Be civil and professional.** Personal attacks, harassment, and hate speech will not be tolerated.
 
-8. @Staff and @Moderator always have the final decision. Use a direct message if you would like clarification.
+4. **Safe for work content only.** Pornographic, sexual innuendo, and extremist content is strictly forbidden.
+
+5. **Clean language only.** Inappropriate and offensive language is strictly forbidden.
+
+7. **Follow the [Discord Terms of Service][discord-tos].**
+
+8. **@Staff and @Moderator always have the final decision.** Use a direct message if you would like clarification.
 
 <!--
 References
